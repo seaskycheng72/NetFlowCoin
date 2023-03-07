@@ -19,7 +19,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
 	github.com/dlclark/regexp2 v1.2.0 // indirect
-	github.com/docker/docker v1.4.2-0.20180625184442-8e610b2b55bf
+	github.com/docker/docker v1.6.1
 	github.com/dop251/goja v0.0.0-20200721192441-a695b0cdd498
 	github.com/edsrzf/mmap-go v1.0.0
 	github.com/fatih/color v1.7.0
@@ -65,10 +65,7 @@ require (
 	golang.org/x/sys v0.0.0-20210420205809-ac73e9fd8988
 	golang.org/x/text v0.3.4
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324
-	gopkg.in/fatih/set.v0 v0.2.1 // indirect
-	gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20200619000410-60c24ae608a6
 	gopkg.in/urfave/cli.v1 v1.20.0
-	gotest.tools v2.2.0+incompatible // indirect
 )
